@@ -4,7 +4,7 @@
 -  I’m currently learning ROCm & HIP
 -  I’m looking to collaborate on [ESST](https://github.com/assembler-0/ESST)
 -  How to reach me: [email](diaviekone13@gmail.com)
--  My greatest and biggest project so far: [ESST](https://github.com/assembler-0/ESST)
+-  My greatest and biggest project so far: [ESST](https://esstweb.vercel.app)
 -  Fun fact: ARCH FTW
 
 <!---
