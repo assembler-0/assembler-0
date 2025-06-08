@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @assembler-0
 - 👀 I’m interested in Low-level Programming and Hardware
 - 🌱 I’m currently learning ROCm & HIP
-- 💞️ I’m looking to collaborate on ![ESST](https://github.com/assembler-0/ESST)
-- 📫 How to reach me: ![email](diaviekone13@gmail.com)
+- 💞️ I’m looking to collaborate on [ESST](https://github.com/assembler-0/ESST)
+- 📫 How to reach me: [email](diaviekone13@gmail.com)
 - ⚡ Fun fact: ARCH FTW
 
 <!---
