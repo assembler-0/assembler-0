@@ -3,9 +3,7 @@
 -  Languages: C++/ASM
 -  I’m currently learning ROCm & HIP
 -  I’m looking to collaborate on [ESST](https://github.com/assembler-0/ESST)
--  How to reach me: [email](diaviekone13@gmail.com)
 -  My greatest and biggest project so far: [ESST](https://esstweb.vercel.app)
--  Fun fact: ARCH FTW
 
 <!---
 assembler-0/assembler-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
