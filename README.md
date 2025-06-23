@@ -2,8 +2,7 @@
 -  I’m interested in Low-level Programming and Hardware
 -  Languages: C++/ASM
 -  I’m currently learning ROCm & HIP
--  I’m looking to collaborate on [ESST](https://github.com/assembler-0/ESST)
--  My greatest and biggest project so far: [ESST](https://esstweb.vercel.app)
+-  I’m looking to collaborate on [ESST](https://github.com/assembler-0/ESST) and [AVC](https://github.com/assembler-0/AVC)
 
 <!---
 assembler-0/assembler-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
