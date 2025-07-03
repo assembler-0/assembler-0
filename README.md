@@ -1,7 +1,6 @@
-# I'm assembler-0
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Performance+Enthusiast;System+Optimizer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFFF&background=1A1A2E00&center=true&vCenter=true&width=600&lines=▲+assembler-0+▲" alt="Cyberpunk" />
 </div>
 
 ## 🚀 About Me
@@ -85,5 +84,4 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
 ---
