@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assembler-0&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🔥 Featured Projects
