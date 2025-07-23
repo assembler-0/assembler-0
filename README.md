@@ -59,8 +59,8 @@
   <a href="https://github.com/assembler-0/RV96GC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=assembler-0&repo=RV96GC&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
-  <a href="https://github.com/assembler-0/6502">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assembler-0&repo=6502&theme=radical&hide_border=true" alt="Repo Card" />
+  <a href="https://github.com/assembler-0/autocc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assembler-0&repo=autocc&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
   <a href="https://github.com/assembler-0/mathd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=assembler-0&repo=mathd&theme=radical&hide_border=true" alt="Repo Card" />
