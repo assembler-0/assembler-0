@@ -62,8 +62,8 @@
   <a href="https://github.com/assembler-0/autocc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=assembler-0&repo=autocc&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
-  <a href="https://github.com/assembler-0/mathd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assembler-0&repo=mathd&theme=radical&hide_border=true" alt="Repo Card" />
+  <a href="https://github.com/assembler-0/AeroSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=assembler-0&repo=AeroSync&theme=radical&hide_border=true" alt="Repo Card" />
   </a>
 </div>
 
